@@ -1,1 +1,3 @@
-#Bookbot - the parser of books, the lister of letters. 
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
